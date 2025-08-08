@@ -1,7 +1,3 @@
-Those results are excellent and provide a clear, interpretable view of your model's logic. You've successfully built a high-performing sentiment analysis model and, more importantly, extracted meaningful insights from it. This is the perfect conclusion to this final project.
-
-Now, let's create a README for your GitHub repository to effectively showcase this project. It will summarize your NLP pipeline, highlight the model's performance, and present the key words you've identified that drive positive and negative sentiment.
-
 📝 IMDB Movie Review Sentiment Analysis
 This project demonstrates a full Natural Language Processing (NLP) pipeline to classify movie reviews as either positive or negative. The goal was to build an accurate and interpretable sentiment analysis model using a publicly available dataset of 50,000 movie reviews.
 
